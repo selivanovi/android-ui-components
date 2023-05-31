@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SwipeCard</string>
+    <string name="add">Add</string>
+    <string name="clear_fab">Clear fab</string>
+    <string name="clear">Clear</string>
+    <string name="delete_message">"Do you want delete this card? "</string>
+    <string name="delete">Delete</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="delete_all_message">Do you want delete all?</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+</resources>

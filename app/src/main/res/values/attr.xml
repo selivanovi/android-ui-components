@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomCardView">
+        <attr name="cc_image" format="reference"/>
+        <attr name="cc_title" format="string"/>
+        <attr name="cc_description" format="string"/>
+    </declare-styleable>
+</resources>
